@@ -52,7 +52,7 @@ Ensure you have ```Java Development Kit (JDK) version 21``` installed on your ma
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ganeshshejwal/TestManagement.git
+   git clone https://github.com/ganeshshejwal/CalculationapiApplication.git
    ```
    
 2. Open the project in your preferred Integrated Development Environment (IDE) or navigate to the project directory using a terminal or command prompt.<br>
